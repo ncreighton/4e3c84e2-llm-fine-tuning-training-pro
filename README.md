@@ -1,2 +1,25 @@
-# 4e3c84e2-llm-fine-tuning-training-pro
-Are your fine-tuning runs failing because of poorly structured prompts? Stop guessing and start using proven prompt templates that stabilize training and boost model alignment.  This library provides ready-to-use prompts for data generation, evaluation, and iterative refinement during LLM fine-tuning. Each prompt is optimized for token efficiency a
+# LLM Fine-Tuning & Training Prompt Library for AI Tools
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard layout | Yes | Yes |
+| Premium components | - | Yes |
+| Custom styling | - | Yes |
+| Support included | - | Yes |
+| Regular updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/00waEXcLl7Eo4pq8nGd0n2o)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/00waEXcLl7Eo4pq8nGd0n2o)
+
